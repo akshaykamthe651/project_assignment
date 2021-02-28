@@ -1,0 +1,23 @@
+[
+  {
+    "source": "aggregator-A",
+    "name": "Hotel-12xy",
+    "availability": 10,
+    "date": "10-march-2020",
+    "room-type": "Large"
+  },
+  {
+    "source": "aggregator-A",
+    "name": "Hotel-13xy",
+    "availability": 10,
+    "date": "10-march-2020",
+    "room-type": "small"
+  },
+  {
+    "source": "aggregator-A",
+    "name": "Hotel-12xy",
+    "availability": 10,
+    "date": "10-march-2020",
+    "room-type": "X-Large"
+  }
+]
