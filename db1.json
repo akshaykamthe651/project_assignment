@@ -5,21 +5,21 @@
         "name":"Hotel-12xy",
         "availability":10,
         "date":"10-march-2020",
-        "room-type":"Large"
+        "roomType":"Large"
     },
     {
         "source":"aggregator-B",
         "name":"Hotel-13xy",
         "availability":10,
         "date":"10-march-2020",
-        "room-type":"small"
+        "roomType":"small"
     },
     {
         "source":"aggregator-B",
         "name":"Hotel-12xy",
         "availability":10,
         "date":"10-march-2020",
-        "room-type":"X-Large"
+        "roomType":"XLarge"
     }
 ]
 }
