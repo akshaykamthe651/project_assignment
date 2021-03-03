@@ -1,25 +1,62 @@
 {
     "hotels":[
-    {
+    {   "id":8,
         "source":"aggregator-B",
-        "name":"Hotel-12xy",
-        "availability":10,
+        "name":"Hotel-brahma7",
+        "availability":4,
         "date":"10-march-2020",
-        "roomType":"Large"
+        "roomType":"Large",
+        "charges": 3000
+    },
+    {   "id":9,
+        "source":"aggregator-B",
+        "name":"Hotel-ajax",
+        "availability":2,
+        "date":"10-march-2020",
+        "roomType":"small",
+        "charges": 2000
+    },
+    {   "id":10,
+        "source":"aggregator-B",
+        "name":"Hotel-H2o",
+        "availability":11,
+        "date":"10-march-2020",
+        "roomType":"XLarge",
+        "charges": 5000
+    },
+    {   "id":11,
+        "source":"aggregator-B",
+        "name":"Hotel-brahma5",
+        "availability":2,
+        "date":"10-march-2020",
+        "roomType":"Large",
+        "charges": 3000
+    },
+    {   "id":12,
+        "source":"aggregator-B",
+        "name":"Hotel-ajax1",
+        "availability":7,
+        "date":"10-march-2020",
+        "roomType":"small",
+        "charges": 2000
     },
     {
+        "id":13,
         "source":"aggregator-B",
-        "name":"Hotel-13xy",
-        "availability":10,
+        "name":"Hotel-H2o1",
+        "availability":8,
         "date":"10-march-2020",
-        "roomType":"small"
+        "roomType":"XLarge",
+        "charges": 5000
     },
-    {
+    {   "id":14,
         "source":"aggregator-B",
-        "name":"Hotel-12xy",
+        "name":"Hotel-JWMarriot",
         "availability":10,
         "date":"10-march-2020",
-        "roomType":"XLarge"
+        "roomType":"XLarge",
+        "charges": 5000
     }
+
 ]
 }
