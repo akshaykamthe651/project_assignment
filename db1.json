@@ -13,7 +13,7 @@
         "name":"Hotel-ajax",
         "availability":2,
         "date":"10-march-2020",
-        "roomType":"small",
+        "roomType":"Small",
         "charges": 2000
     },
     {   "id":10,
@@ -37,7 +37,7 @@
         "name":"Hotel-ajax1",
         "availability":7,
         "date":"10-march-2020",
-        "roomType":"small",
+        "roomType":"Small",
         "charges": 2000
     },
     {
